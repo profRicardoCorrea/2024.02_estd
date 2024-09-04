@@ -1,5 +1,5 @@
 	package lista_encadeada;
-public class MainPessoaA {
+public class MainPessoaB {
     
     
     

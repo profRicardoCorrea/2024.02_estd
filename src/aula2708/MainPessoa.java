@@ -14,6 +14,8 @@ public class MainPessoa {
         p4.Filho.Filho=p2;
         p4.Filho.Filho.Filho=p3;
         p4.Filho.Filho.Filho.Filho=new Pessoa("Luiz");
+        
+        System.out.println("P4"+p4.nome);
 
     }
     
